@@ -131,19 +131,8 @@ const Benefits = ({ setSelectedPage }: Props) => {
               }}
             >
               <p className="my-5">
-                Nascetur aenean massa auctor tincidunt. Iaculis potenti amet
-                egestas ultrices consectetur adipiscing ultricies enim. Pulvinar
-                fames vitae vitae quis. Quis amet vulputate tincidunt at in
-                nulla nec. Consequat sed facilisis dui sit egestas ultrices
-                tellus. Ullamcorper arcu id pretium sapien proin integer nisl.
-                Felis orci diam odio.
-              </p>
-              <p className="mb-5">
-                Fringilla a sed at suspendisse ut enim volutpat. Rhoncus vel est
-                tellus quam porttitor. Mauris velit euismod elementum arcu neque
-                facilisi. Amet semper tortor facilisis metus nibh. Rhoncus sit
-                enim mattis odio in risus nunc.
-              </p>
+              Join the thriving community of millions of satisfied members who have embraced a healthier lifestyle and achieved their fitness goals with us. Experience the joy of progress and the satisfaction of reaching new milestones alongside like-minded individuals, all united in the pursuit of fitness and well-being.
+</p>
             </motion.div>
 
             {/* BUTTON */}
