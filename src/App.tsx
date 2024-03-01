@@ -30,7 +30,7 @@ function App() {
       <Navbar
         isTopOfPage={isTopOfPage}
         selectedPage={selectedPage}
-        setSelectedPage={setSelectedPage}
+        setSelectedPage={String}
       />
       <Home setSelectedPage={setSelectedPage} />
       <Benefits setSelectedPage={setSelectedPage} />
